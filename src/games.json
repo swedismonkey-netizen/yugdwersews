@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "The classic game of snake. Eat the apples and grow longer.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "dino-run",
+    "title": "Dino Run",
+    "description": "The famous offline dinosaur game.",
+    "url": "https://chromedino.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=300&fit=crop"
+  }
+]
